@@ -5,3 +5,7 @@
     background-color: red;
     display: flex;
 }
+
+h3 {
+    border: 2px solid grey;
+}
